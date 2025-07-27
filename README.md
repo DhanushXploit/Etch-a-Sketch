@@ -27,6 +27,11 @@ A simple browser-based Etch-a-Sketch app built with **HTML, CSS, and JavaScript*
 - CSS3 (Flexbox)
 - Vanilla JavaScript (DOM Manipulation)
 
+## 🚀 Live Preview
+
+[Click here to play Etch-a-Sketch](https://dhanushxploit.github.io/Etch-a-Sketch/)
+
+
 ## 📷 Screenshot
 
 ![Etch-a-Sketch Preview](assets/Etch-a-Sketch.png)
