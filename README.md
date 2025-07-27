@@ -29,7 +29,8 @@ A simple browser-based Etch-a-Sketch app built with **HTML, CSS, and JavaScript*
 
 ## 📷 Screenshot
 
-![etch-a-sketch preview](Etch-a-Sketch) <!-- Replace with your actual screenshot file if available -->
+![Etch-a-Sketch Preview](assets/Etch-a-Sketch.png)
+ <!-- Replace with your actual screenshot file if available -->
 
 ## 🎓 Project Source
 
